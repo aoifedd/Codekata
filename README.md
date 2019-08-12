@@ -1,0 +1,2 @@
+# Codekata
+Codekata coding challenges
